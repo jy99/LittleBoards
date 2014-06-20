@@ -1,11 +1,6 @@
-update=6/13/2014 4:05:17 PM
+update=6/19/2014 11:47:09 PM
 version=1
 last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [general]
 version=1
 [pcbnew]
@@ -28,7 +23,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=../LPC1114-dev-board
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -46,6 +40,13 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=LPC1114-dev-board
+LibName18=C:/embedded/kicad_libraries/package_connectors
+LibDir=../LPC1114-dev-board
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=
